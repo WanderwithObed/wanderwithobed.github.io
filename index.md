@@ -1,7 +1,7 @@
-# Obed Mawunyo Tettey
+## Obed Mawunyo Tettey
 
 
-<img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/123fe9e0-8e9d-442e-829e-b6ab1dc04e91" /> [your.email@example.com](mailto:your.email@example.com)  
+<img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/123fe9e0-8e9d-442e-829e-b6ab1dc04e91" /> [u389825i@ecs.osaka-u.ac.jp](mailto:your.email@example.com)  
 <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/be9a12b8-8329-4fac-897d-a8d6e73c50b4" /> [Resume](assets/Resume.pdf)  
 <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/cb053c0e-e415-43e9-b242-4482100b61be" /> [Google Scholar](#)  
 <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/5295b260-8729-4e05-9d8b-3edf944725af" /> [LinkedIn](#)  
