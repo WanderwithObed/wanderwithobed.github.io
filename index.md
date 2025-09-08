@@ -1,4 +1,8 @@
-## Obed Mawunyo Tettey
+---
+layout: home
+title: Home
+permalink: /
+---
 
 
 <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/123fe9e0-8e9d-442e-829e-b6ab1dc04e91" /> [u389825i@ecs.osaka-u.ac.jp](mailto:your.email@example.com)  
@@ -29,4 +33,6 @@ My broader research focuses on how policy design and agricultural transformation
 My research interests include:  
 - **Area 1**  
 - **Area 2**  
-- **Area 3** 
+- **Area 3**
+
+You can read more [about me](about).
