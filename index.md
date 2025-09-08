@@ -1,4 +1,4 @@
-# Hello, I'm [Your Name] 👋
+# Hello, I'm Obed
 
 📧 [your.email@example.com](mailto:your.email@example.com)  
 📄 [CV](assets/CV.pdf)  
@@ -13,7 +13,7 @@
 
 ---
 
-## 👋 About Me  
+## About Me  
 
 I am **[Your Name]**, a [your field/profession].  
 Currently: [Your Role @ Institution].  
