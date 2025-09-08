@@ -1,4 +1,4 @@
-# Hello, I'm Obed
+# Obed Mawunyo Tettey
 
 
 <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/123fe9e0-8e9d-442e-829e-b6ab1dc04e91" /> [your.email@example.com](mailto:your.email@example.com)  
