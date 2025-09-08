@@ -1,6 +1,6 @@
 # Hello, I'm [Your Name] 👋
 
-<img src="profile.jpg" alt="Profile image" width="180" align="right" />
+<img src="assets/img/profile.jpg" alt="Profile image" width="180" align="right" />
 
 📧 [your.email@example.com](mailto:your.email@example.com)  
 📄 [CV](#)  
