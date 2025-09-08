@@ -1,5 +1,5 @@
 theme: jekyll-theme-minimal
-title: "[Your Name]"
+# title: "[Your Name]"
 description: "Portfolio | Research | Publications"
 logo: /assets/profile.jpg
 show_downloads: false
