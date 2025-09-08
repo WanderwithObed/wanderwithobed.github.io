@@ -2,7 +2,7 @@
 
 
 📧 [your.email@example.com](mailto:your.email@example.com)  
-📄 [CV](assets/CV.pdf)  
+📄 [CV](assets/Resume.pdf)  
 🎓 [Google Scholar](#)  
 💼 [LinkedIn](#)  
 💻 [GitHub](https://github.com/your-username)  
