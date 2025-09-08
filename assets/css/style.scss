@@ -1,0 +1,21 @@
+---
+---
+
+@import "jekyll-theme-minimal";
+
+// Custom overrides
+body {
+  font-family: "Helvetica Neue", Arial, sans-serif;
+  background-color: #f8f9fa;
+  color: #333;
+}
+
+header {
+  background-color: #3f5c7a;
+  padding: 15px;
+  color: white;
+}
+
+header h1 {
+  color: white;
+}
