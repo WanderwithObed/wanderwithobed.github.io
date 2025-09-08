@@ -1,9 +1,9 @@
 # Contact  
 
-📧 Email: [your.email@example.com](mailto:your.email@example.com)  
-💼 LinkedIn: [Your LinkedIn](#)  
+📧 Email: [obed.tettey@mofa.gov.gh](mailto:your.email@example.com)  
+💼 LinkedIn: [https://www.linkedin.com/in/obed-tettey-103914198/](https://www.linkedin.com/in/obed-tettey-103914198/)  
 🎓 Google Scholar: [Your Scholar Profile](#)  
-💻 GitHub: [Your GitHub](https://github.com/your-username)  
+💻 GitHub: [Obed Tettey](https://github.com/wanderwithobed)  
 
-📍 Location: [City, Country]  
+📍 Location: [Osaka, Japan]  
 
