@@ -1,7 +1,5 @@
 # Hello, I'm [Your Name] 👋
 
-<img src="assets/profile.jpg" alt="Profile" width="180" align="right" />
-
 📧 [your.email@example.com](mailto:your.email@example.com)  
 📄 [CV](assets/CV.pdf)  
 🎓 [Google Scholar](#)  
